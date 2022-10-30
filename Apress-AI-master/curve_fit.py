@@ -9,7 +9,7 @@ def gen_data(myfunc,n):
         RR.append(myfunc(t)*uniform(0.8,1.2))
         R.append(RR)
     return R
-
+//addasdfhas dasjkdlhas dasjlkdh
 from my_or_tools import ObjVal, SolVal, newSolver
 
 def solve_model(D,deg=1,objective=0):
